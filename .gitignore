@@ -2,7 +2,9 @@
 *.csv
 *.xlsx
 *.xls
-*.
+
+# Notebooks
+*.ipynb
 
 # Archivos generados por el sistema operativo
 .DS_Store
