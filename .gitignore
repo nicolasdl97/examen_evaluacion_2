@@ -3,8 +3,8 @@
 *.xlsx
 *.xls
 
-# Notebooks
-*.ipynb
+# Notebooks debtri la carpeta Code
+Code/*.ipynb
 
 # Archivos generados por el sistema operativo
 .DS_Store
