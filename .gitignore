@@ -1,0 +1,15 @@
+# Archivos de datos
+*.csv
+*.xlsx
+*.xls
+*.
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios de entornos virtuales
+examen-env/
+
+# Deja de compartir la carpeta Data
+data/
