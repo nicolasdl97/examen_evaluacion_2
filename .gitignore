@@ -3,7 +3,7 @@
 *.xlsx
 *.xls
 
-# Notebooks debtri la carpeta Code
+# Notebooks dentro de la carpeta Code
 Code/*.ipynb
 
 # Archivos generados por el sistema operativo
